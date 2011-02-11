@@ -25,7 +25,7 @@
 				<h1>The CNC Project</h1>
 				<div class="body">
 					<p>
-                    This semester, 5 fledgling members of the Principles of Engineering course at Olin College created a CNC machine for extruded polystyrene. At approximately 3 ft by 3 ft by 3ft, our CNC machine is a monster and can cut foam sheets up to 2.5 ft square and 1 ft thick.  Our goal this semester was to create a CNC device capable of cutting 2-D profiles in blue foam. Technically our machine is capable of making such cuts, however we have not fully implemented the ability to manually program jobs. For the time being, the blue foamCNC machine is limited to making test cuts that have been coded into memory.
+                    Fall 2009, 5 fledgling members of the Principles of Engineering course at Olin College created a CNC machine for extruded polystyrene. At approximately 3 ft by 3 ft by 3ft, our CNC machine is a monster and can cut foam sheets up to 2.5 ft square and 1 ft thick.  Our goal this semester was to create a CNC device capable of cutting 2-D profiles in blue foam. Technically our machine is capable of making such cuts, however we have not fully implemented the ability to manually program jobs. For the time being, the blue foamCNC machine is limited to making test cuts that have been coded into memory.
                     </p>
                     <p>
                     Our machine is composed of:
